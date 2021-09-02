@@ -1,0 +1,16 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.react-flow__node.selected {
+  border: 4px solid palevioletred;
+  border-radius: 10px;
+}
